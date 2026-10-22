@@ -59,8 +59,6 @@ Experience the live website: [NICE GADGET](https://sertavr.github.io/phone-catal
 
 ## Technologies Used
 
-## 🛠 Technologies Used
-
 **React & React DOM:**
 Core library for building interactive user interfaces with reusable components.
 
