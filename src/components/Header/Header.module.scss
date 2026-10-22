@@ -1,0 +1,11 @@
+@use '../../style/index' as *;
+
+.header {
+  width: 100%;
+  height: 48px;
+  background-color: var(--page-bg);
+
+  @include on-desktop {
+    height: 64px;
+  }
+}

@@ -1,3 +1,16 @@
-.starter {
-  font-size: 18px;
+@use './style/index' as *;
+
+html,
+body {
+  background-color: var(--main-bg);
+  color: var(--text-main);
+  transition:
+    color $transition ease,
+    background-color $transition ease;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
