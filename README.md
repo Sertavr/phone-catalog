@@ -1,8 +1,9 @@
 # Phone-catalog
 
-Phone Catalog is a modern web application that showcases a catalog of phones, tablets, and accessories with a focus on usability and responsive design.
-The project highlights phones, tablets, and accessories, specifications, and visual presentation, providing visitors with a clear and engaging browsing experience.
+Phone Catalog is a modern web application that showcases a catalog of **phones, tablets, and accessories** with a focus on usability and responsive design.
+The project highlights product specifications and visual presentation, providing visitors with a clear and engaging browsing experience.
 Its purpose is to demonstrate **React + TypeScript integration**, **SCSS modular styling**, and **responsive layout techniques**, serving both as a product showcase and a learning example for front‑end development.
+
 
 
 ## Technical Requirements
